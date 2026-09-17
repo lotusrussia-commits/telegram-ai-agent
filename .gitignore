@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+data/chroma/
+data/uploads/
+data/agent_files/
+
+agent.log

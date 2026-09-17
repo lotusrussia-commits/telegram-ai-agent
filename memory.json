@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "Какой город я спрашивал тебя о погоде?"
+  },
+  {
+    "role": "assistant",
+    "content": "Вы спрашивали о погоде в Варшаве."
+  },
+  {
+    "role": "user",
+    "content": "Сколько будет 25 * 48?"
+  },
+  {
+    "role": "assistant",
+    "content": "25 * 48 = 1200."
+  },
+  {
+    "role": "user",
+    "content": "Какая сейчас погода в Варшаве?"
+  },
+  {
+    "role": "assistant",
+    "content": "Сейчас в Варшаве 14.8 °C, ощущается как 14.3 °C, влажность 87%, ветер 8.6 км/ч."
+  },
+  {
+    "role": "user",
+    "content": "Какой сейчас курс EUR к USD?"
+  },
+  {
+    "role": "assistant",
+    "content": "1 EUR = 1.1481 USD."
+  },
+  {
+    "role": "user",
+    "content": "Найди официальный сайт Python."
+  },
+  {
+    "role": "assistant",
+    "content": "Официальный сайт Python: https://www.python.org — поддерживается Python Software Foundation.  \nДокументация: https://docs.python.org/  \nЗагрузки: https://www.python.org/downloads/"
+  },
+  {
+    "role": "user",
+    "content": "Какой город я спрашивал тебя о погоде?"
+  },
+  {
+    "role": "assistant",
+    "content": "Вы спрашивали о погоде в Варшаве."
+  },
+  {
+    "role": "user",
+    "content": "Создай файл test_agent.txt и запиши туда: Привет, это проверка AI-агента."
+  },
+  {
+    "role": "assistant",
+    "content": "Файл test_agent.txt создан и в него записано: \"Привет, это проверка AI-агента.\""
+  },
+  {
+    "role": "user",
+    "content": "Прочитай файл test_agent.txt и скажи, что в нём написано."
+  },
+  {
+    "role": "assistant",
+    "content": "В файле test_agent.txt написано: \"Привет, это проверка AI-агента.\""
+  },
+  {
+    "role": "user",
+    "content": "Какая сейчас погода в Варшаве?"
+  },
+  {
+    "role": "assistant",
+    "content": "Сейчас в Варшаве 14.7 °C, ощущается как 14.2 °C, влажность 87%, ветер 8.6 км/ч."
+  },
+  {
+    "role": "user",
+    "content": "Какая сейчас погода в Варшаве?"
+  },
+  {
+    "role": "assistant",
+    "content": "Сейчас в Варшаве 14.7 °C, ощущается как 14.2 °C, влажность 87%, ветер 8.6 км/ч."
+  }
+]
